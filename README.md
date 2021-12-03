@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_img/formulario.mp4" alt="Formulário" height="300">
+  <img src="_img/formulario.gif" alt="Formulário" height="300">
 </div>
 
 ---
